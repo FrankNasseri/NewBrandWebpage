@@ -24,4 +24,9 @@ nav#navvy.navbar.navbar-static-top{
 nav a {
     color:black;
 }
+/*MAIN STYLING*/
+.main {
+    background-image: url('Image/boxwithwater.jpg');
+    background-size:cover;
+}
 
