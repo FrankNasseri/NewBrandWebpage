@@ -1,2 +1,12 @@
 ﻿body {
 }
+div.page-header {
+   background-image: url('Image/waves.jpg');
+   background-size:contain;
+   margin-top:0px;
+   padding-top:3px;
+}
+.container {
+    text-align:center;
+}
+
