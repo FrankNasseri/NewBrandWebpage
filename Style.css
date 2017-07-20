@@ -5,8 +5,23 @@ div.page-header {
    background-size:contain;
    margin-top:0px;
    padding-top:3px;
+   padding-bottom:0px;
+   margin-bottom:0px;
 }
 .container {
     text-align:center;
+}
+/*NAVBAR STYLING*/
+nav#navvy.navbar.navbar-static-top{
+    background-color:#4B57E8;
+    text-decoration:solid;
+    text-decoration-color:black;
+    padding-top:0px;
+    padding-bottom:0px;
+    margin-bottom:0px;
+    margin-top:0px;
+}
+nav a {
+    color:black;
 }
 
